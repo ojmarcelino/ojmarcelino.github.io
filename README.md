@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=My%20personal%20website&desc=jmarcelino.com.br&fontSize=40" />
+<a href="https://www.jmarcelino.com.br" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=My%20personal%20website&desc=jmarcelino.com.br&fontSize=40" /></a>
