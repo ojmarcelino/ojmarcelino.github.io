@@ -3,98 +3,129 @@
 ## **#Experience**
 
 ### :date: 02/13 - ongoing 🎓 Uniasselvi Group
-#### Remote and On-site postgraduate and graduate classes and mentoring thesis in technology and engineering.
+
+#### Remote and On-site postgraduate and graduate classes and mentoring thesis in technology and engineering
+
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![LaTeX](https://img.shields.io/badge/PGF%20\/%20Tikz-%23008080.svg?style=plastic&logo=latex&logoColor=white)![LaTeX](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Lua](https://img.shields.io/badge/luaTeX-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 
-Lecionei para graduação até 07/15 (vide Católica-abaixo) em disciplinas de tecnologia, engenharias e gestão. Atualmente oriento acadêmicos de graduação (2013-2015) e pós-graduação (2013-) em trabalhos de conclusão de curso e outras produções científicas.
+I taught undergraduate until 07/15 (see Catholic below) in the departments of computing, engineering and management. I currently advise undergraduate (2013-2015) and post-graduate (2013-) academics in scientific production.
 
 ### :date: 09/19 - 02/21 🎓 SENAI/SC - Jaraguá do Sul
-#### Remote and On-site undergraduate professor.
+
+#### Remote and On-site undergraduate professor
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff)![CorelDraw](https://img.shields.io/badge/CorelDraw-lightgreen?style=plastic&logo=Inkscape&logoColor=orange)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![BibTex](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![PGFTikz](https://img.shields.io/badge/PGF%20\/%20Tikz-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Lua](https://img.shields.io/badge/luaTeX-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 
-Lecionei para graduação em disciplinas na área de tecnologia, e atividades de pesquisa e extensão.
+I taught undergraduate courses in computing and engineering, and also to research and extensions activities. (The Brazilian Ministry of Education regulates that universities must maintain a social link with the external community, through the implementation of extension projects that address issues in favor of citizens)
 
-**Destaque** para projeto (Extensão) de revitalização do Museu Malwee e criação do app (MalweeDigitalPark).
+**Highlight** for project (Extension) to revitalize the Malwee Museum and create the app (MalweeDigitalPark).
 
 ### :date: 07/15 - 04/19 🎓 Catholic University Center Santa Catarina
-#### Remote and On-site undergraduate professor.
+
+#### Remote and On-site undergraduate professor
+
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![BibTex](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![PGFTikz](https://img.shields.io/badge/PGF%20\/%20Tikz-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Lua](https://img.shields.io/badge/luaTeX-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 
-Lecionei para graduação em disciplinas nas áreas de tecnologia, gestão, e atividades de pesquisa e extensão.
+I Taught undergraduate courses in computing and management, aside research and extension projects.
 
-**Destaques** para criação e estruturação dos cursos de tecnologia para ensino a distância, atuação na equipe de robótica (extensão) e no programa para ensino de tecnologia para terceira idade.
+**Highlights** for creating and structuring technology courses for distance learning, acting in the robotics team (extension) and in the technology teaching program for seniors to learn basic computing, technology and social networking skills.
 
 ### :date: 09/12 - 12/13 🎓 Anhanguera Educational
-#### On-site postgraduate.
-Lecionei para graduação e pós, em disciplinas de tecnologia, engenharias e gestão.
+
+#### On-site postgraduate
+
+I taught undergraduate and postgraduate courses in technology, engineering and management disciplines.
 
 ### :date: 09/11 - 02/13 🎓 Delinea Education Technology
-#### Remote technical writer and professor.
+
+#### Remote technical writer and professor
+
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![BibTex](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![PGFTikz](https://img.shields.io/badge/PGF%20\/%20Tikz-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13)![CorelDraw](https://img.shields.io/badge/CorelDraw-lightgreen?style=plastic&logo=Inkscape&logoColor=orange)
 
-Desenvolvi inúmeros materiais didáticos para graduação e pós, em disciplinas de tecnologia e gestão (v. Currículo Lattes).
+I developed numerous teaching materials for undergraduate and postgraduate courses, in technology and management disciplines (see Lattes Curriculum).
 
-**Destaque** para criação de livro didático para uso em disciplinas de Gestão de Projetos para Kroton Educacional.
+**Highlight** for creating a textbook for use in Project Management courses for Kroton Educacional.
 
 ### :date: 02/09 - 02/12 🎓 SENAI/SC – Jaraguá do Sul
-#### IT and Business Management Specialist, coordinator of the computer architecture and operating systems laboratory.
+
+#### IT and Business Management Specialist, coordinator of the computer architecture and operating systems laboratory
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)![Mac OS](https://img.shields.io/badge/MacOS-000000?style=plastic&logo=macos&logoColor=F0F0F0)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-Lecionei para graduação, pós, cursos técnicos e de qualificação profissional, em disciplinas na área de tecnologia e atividades de pesquisa e extensão. Desenvolvi vários materiais didáticos para nível técnico e superior, e participei do planejamento e criação do LMS da instituição.
+I taught for undergraduate, graduate, technical and professional qualification courses, leading and deploying IT projects in research and extension. Also developed several teaching materials for technical and higher levels, and participated in the planning and creation of the institution's LMS using both Moodle and internal developed components.
 
-**Destaques** para projeto (extensão) de reciclagem de lixo tecnológico e devolvendo equipamentos para a comunidade carente (inédito na região), atuação como instrutor na academia Cisco Networking Academy, e coordenador do laboratório de arquitetura de computadores e sistemas operacionais.
+**Highlights** for a IT Waste Management extension project, returning equipment to the needy community (unprecedented in the region), also as coordinator of the computer architecture and operating systems laboratory, and Certified Instructor at Cisco Networking Academy local branch.
 
 ### :date: 2008-2009 🎓 FCJ – Cenecista College of Joinville
-#### Professor in Administration and Software Development.
+
+#### Professor in Administration and Software Development
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
-Lecionei para graduação e cursos técnicos, em disciplinas de tecnologia, nos cursos de administração, logística, sistemas de informação e análise e desenvolvimento de sistemas.
+I taught undergraduate and postgraduate courses in administration, logistics, information systems and also systems analysis and development courses.
 
 ### :date: 2008 - 2009 🎓 CEDB – Dom Bosco Educational Center
-#### Mentoring courses in IT and Administration.
+
+#### Mentoring courses in IT and Administration
+
 !![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-Eduquei vários adolescentes e jovens de baixa renda e/ou em situação de risco social, inicialmente como voluntário, e depois como contratado pela instituição, em segmentos como atendimento ao cliente, montagem e manutenção de computadores, e instalação e automação de sistemas operacionais e servidores.
+I educated several teenagers and youngsters people from low-income and/or socially at risk situations, in segments and activities such as customer service, assembly and maintenance of computers, and installation and automation of operating systems and servers.
 
 ### :date: 2007 - 2008 🎓 INPG – National Postgraduate Institute
-#### Assistant professor and tech/educational consultant.
+
+#### Assistant professor and tech/educational consultant
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)MOODLE_Shield![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
-**- Descrição detalhada:**
-
+I worked at management and deploy of institutional LMS platform, from technical specifications of environments to training of teachers and students in the environment.
 
 ### :date: 2007 - 2008 🎓 SoftExpert Automation
-#### Project manager and consultant in EDI, BPM, BSC, SWOT, KPI, KB, QA and SPLAN management systems.
+
+#### Project manager and consultant in EDI, BPM, BSC, SWOT, KPI, KB, QA and SPLAN management systems
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
-Atuei como gerente de projetos, e anteriormente como consultor de implantação e treinamento em sistemas de informação voltados para gestão de projetos, planejamento estratégico, gestão empresarial, qualidade e outras soluções de automação. 
+I worked as a project manager, and previously as deploy and training consultant, in information systems focused on project management, strategic planning, business management, quality and other automation solutions.
 
-**Destaques** para consultoria na equipe de planejamento estratégico da Marinha do Brasil, treinamento de equipes em empresas como Danone, BRF, CSN, Avon, Bunge Alimentos.
+**Highlights** for consultancy in the strategic planning team of the Brazilian Navy, deploy and training in companies such as Danone, BRF, CSN, Avon, Banco do Brasil and Bunge Alimentos.
 
+### :date: 2003 - 2006 🎓 Datasul/NeoGrid
 
-### :date: 2003 - 2006 🎓 Datasul/NeoGrid	
-#### Deployment and integration in ERP, EDI, CRM, B2B, B2C, e/c-Commerce, VMI, JIT, forecast, kanban, and SCI.
-Iniciei como analista de suporte, e posteriormentena equipe de consultoria de implantação e gestão de projetos.
+#### Deployment and integration in ERP, EDI, CRM, B2B, B2C, e/c-Commerce, VMI, JIT, forecast, kanban, and SCI
 
-**Destaques** para consultoria em empresas como Nissan, Felters Group, Renault, Gradiente Eletrônica, Magazine Luiza, Black \& Decker, General Electric, Gedas, Ambev, Alpargatas, Samsung, Nestlé, Pirelli, 3M, Carrefour, FastShop, Unilever, AkzoNobel, Colgate, entre outros grandes players.
+I started as a support analyst, and later in the project management and deploy consulting team.
+
+**Highlights** for consulting in companies such as Nissan, Felters Group, Renault, Gradiente Eletrônica, Magazine Luiza, Black \& Decker, General Electric, Gedas, Ambev, Alpargatas, Samsung, Nestlé, Pirelli, 3M, Carrefour, FastShop, Unilever, AkzoNobel, Colgate, among other major players.
 
 ## **#Education**
-### :date: 2019  🎓 UniSociesc
-#### Masters of Science in Production Engineering, emphasis on Lean IT.
-Desenvolvi uma ferramenta para gestão da TI de um município de Santa Catarina, totalmente baseada em Lean IT e modelos e ferramentas de gestão e governança de TI, como forma de agregar valor e eliminar desperdícios no ambiente estudado.
 
-**Destaque** sobre apresentação e publicação em congressos nacionais e internacionais sobre o tema, haja visto que o assunto ainda é muito recente na área.
+### :date: 2019  🎓 UniSociesc
+
+#### Masters of Science in Production Engineering, emphasis on Lean IT
+
+I delivered a high-value and low-TCO tool for public sector IT management in a city in Santa Catarina, totally based on Lean IT and IT management and governance models and tools, as a way to add value and eliminate waste in the studied environment.
+
+**Highlight** for presentation and publication in national and international conferences, given that the subject is still very recent in the brazillian tech niche.
+
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![BibTex](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=plastic)![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=plastic&logo=alpine-linux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ### :date:2012  🎓 Uniasselvi
-#### MBA in Teaching to Higher Education.
-Analisei um modelo de interação de estudantes em plataformas de ensino à distância, utilizando ferramentas como wikis, blogs, mídias sociais, entre outros, e dispositivos de baixo TCO.
+
+#### MBA in Teaching to Higher Education
+
+I created and analyzed a model of student interaction in distance learning platforms, using tools such as wikis, blogs, social media, among others, using low TCO devices and specifications.
+
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=plastic)![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=plastic&logo=alpine-linux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![BibTex](https://img.shields.io/badge/BibTex-%23008080.svg?style=plastic&logo=latex&logoColor=white)MOODLE_Shield
 
 ### :date: 2008  🎓 INPG (pending diploma)
-#### MBA in Project Management. 
-Planejamento do projeto de um modelo de mapeamento de processos de transferência de conhecimento.
+
+#### MBA in Project Management
+
+Project planning of a knowledge transfer process mapping model.
 
 ### :date: 2007  🎓 Univille
-#### Bachelor in Information Systems.
-Criação da documentação de uma metodologia de implantação de serviços de integração de uma cadeia de suprimentos, envolvendo fornecedores e clientes, entre diferentes demandas e stacks tecnológicos.
+
+#### Bachelor in Information Systems
+
+Modeling and documentation of the deployment methodology of supply chain integration services, applying the concepts of B2B, B2C in an interoperability environment and several technological stacks.
